@@ -101,11 +101,11 @@
       <div class="row gy-4">
         <div class="col-lg-6 col-md-12 footer-about">
           <a href="{{url('/')}}" class="d-flex align-items-center">
-            <span class="sitename">AngolaEmprego</span>
+            <span class="sitename">PortugalEmprego</span>
           </a>
           <div class="footer-contact pt-3">
-            <p>Maianga</p>
-            <p>Luanda, Angola</p>
+            <p>Entre Campos</p>
+            <p>Portugal, Lisboa</p>
             <p><strong>Email:</strong> <span>geral@angolaemprego.com</span></p>
           </div>
         </div>

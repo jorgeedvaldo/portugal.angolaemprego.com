@@ -14,8 +14,8 @@
         <div class="container">
             <div class="row gy-4">
             <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="zoom-out">
-                <h1>Bem-vindo ao <span>AngolaEmprego</span></h1>
-                <p>O Maior portal de emprego em Angola</p>
+                <h1>Bem-vindo ao <span>PortugalEmprego</span></h1>
+                <p>O Maior portal de emprego em Portugal</p>
                 <div class="d-flex">
                 <a href="{{url('/vagas')}}" class="btn-get-started">Ver Oportunidades</a>
                 </div>
